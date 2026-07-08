@@ -64,10 +64,10 @@ Task 5
 
 | Task | Project | Description | Repository |
 |------|---------|-------------|------------|
-| **Task 1** | Data Immersion & Wrangling | Data cleaning, preprocessing, handling missing values, and preparing the dataset for analysis. | [<YOUR_TASK_1_REPO_LINK>](https://github.com/Jupatikotivenkatesh/Task-1-Data-Immersion-Wrangling) |
-| **Task 2** | Exploratory Data Analysis & Business Intelligence | Performed EDA, generated visualizations, and discovered meaningful business insights. | [<YOUR_TASK_2_REPO_LINK>](https://github.com/Jupatikotivenkatesh/Task-2-Exploratory-Data-Analysis-EDA-Business-Intelligence-)|
-| **Task 3** | Deep-Dive Analysis & Interactive Dashboarding | Developed an interactive Power BI dashboard with KPIs, filters, and business-focused visualizations. | [<YOUR_TASK_3_REPO_LINK>](https://github.com/Jupatikotivenkatesh/Task-3-Deep-Dive-Analysis-Interactive-Dashboarding) |
-| **Task 4** | Data Storytelling & Statistical Validation | Validated analytical findings using statistical tests and transformed insights into business recommendations. | [<YOUR_TASK_4_REPO_LINK>](https://github.com/Jupatikotivenkatesh/Task-4-Data-Storytelling-Statistical-Validation) |
+| **Task 1** | Data Immersion & Wrangling | Data cleaning, preprocessing, handling missing values, and preparing the dataset for analysis. | [<TASK_1>](https://github.com/Jupatikotivenkatesh/Task-1-Data-Immersion-Wrangling) |
+| **Task 2** | Exploratory Data Analysis & Business Intelligence | Performed EDA, generated visualizations, and discovered meaningful business insights. | [<TASK_2>](https://github.com/Jupatikotivenkatesh/Task-2-Exploratory-Data-Analysis-EDA-Business-Intelligence-)|
+| **Task 3** | Deep-Dive Analysis & Interactive Dashboarding | Developed an interactive Power BI dashboard with KPIs, filters, and business-focused visualizations. | [<TASK_3>](https://github.com/Jupatikotivenkatesh/Task-3-Deep-Dive-Analysis-Interactive-Dashboarding) |
+| **Task 4** | Data Storytelling & Statistical Validation | Validated analytical findings using statistical tests and transformed insights into business recommendations. | [<TASK_4>](https://github.com/Jupatikotivenkatesh/Task-4-Data-Storytelling-Statistical-Validation) |
 
 ---
 
